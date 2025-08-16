@@ -1,5 +1,6 @@
-#Include <iostream>
-using namespace "std" ;
+#include <iostream>
+using namespace std ;
 int main () {
-cout << "Hola Algoritmo y Estructura de Datos"
+cout << "Hola Algoritmo y Estructura de Datos";
+return 0;.
 }
